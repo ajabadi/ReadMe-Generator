@@ -26,4 +26,4 @@ As a developer, I want a README generator so that I can quickly create a profess
 A [walkthrough video] (https://watch.screencastify.com/v/W4TaoCBrOgOYwoqeJDt3) to demostrate the functionality of the application will be provided, showcasing the user flow and response handling.
 
 ### Sample README
-<img ![Screen Shot 2023-11-20 at 23 07 20](https://github.com/ajabadi/ReadMe-Generator/assets/145517793/1afea736-8e61-4fbd-85fd-cc2e03dcb3f0)
+![Screen Shot 2023-11-20 at 23 07 20](https://github.com/ajabadi/ReadMe-Generator/assets/145517793/1afea736-8e61-4fbd-85fd-cc2e03dcb3f0)
